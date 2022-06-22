@@ -1,0 +1,12 @@
+<template_info> 
+  <product>Movie</product>
+  <description language='en'>Html5 Bios</description>
+  <description language='sv'>Html5 Bios</description>  
+  <filename>view_item_details_v9.xsl</filename>
+  <template_type>exportdetails</template_type>
+  <item_type>2</item_type>
+  <supports_thumbnails>no</supports_thumbnails>
+  <supports_images>yes</supports_images>
+  <supports_navigation>yes</supports_navigation>
+</template_info>
+
