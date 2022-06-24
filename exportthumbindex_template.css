@@ -1,34 +1,5 @@
 /* Added */
-/*@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'),
-    url('fonts/roboto.woff2') format('woff2'),
-    url('fonts/roboto.woff') format('woff'),
-    url(//fonts.gstatic.com/s/roboto/v15/N5Lbe1fynPA1KT8BFvAiGw.woff2) format('woff2'),
-    url(//fonts.gstatic.com/s/roboto/v15/grlryt2bdKIyfMSOhzd1eA.woff) format('woff');
-}
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Roboto'),
-    url('fonts/roboto.woff2') format('woff2'),
-    url('fonts/roboto.woff') format('woff'),
-    url(//fonts.gstatic.com/s/roboto/v15/El-bgsteBznJNL5pgUfFLA.woff2) format('woff2'),
-    url(//fonts.gstatic.com/s/roboto/v15/d-QWLnp4didxos_6urzFtg.woff) format('woff');
-}
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Roboto'),
-    url('fonts/roboto.woff2') format('woff2'),
-    url('fonts/roboto.woff') format('woff'),
-    url(//fonts.gstatic.com/s/roboto/v15/tZdhd9Zzj0I2MwoD56osIw.woff2) format('woff2'),
-    url(//fonts.gstatic.com/s/roboto/v15/vxNK-E6B13CyehuDCmvQvw.woff) format('woff');
-}
+/*
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
