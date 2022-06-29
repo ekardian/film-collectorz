@@ -44,8 +44,8 @@
 		<meta property="og:image" content="http://film.biosxtreme.net/images/filmbiosxtreme.jpg" />
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/angular.min.js"></script>
-    <script src="js/ng-infinite-scroll.min.js"></script>
+    <!--<script src="js/angular.min.js"></script>-->
+    <!--<script src="js/ng-infinite-scroll.min.js"></script>-->
     <!-- TOOLTIPS-->
     <script src="js/jq_tt/js/core.js"></script>
     <script src="js/jq_tt/js/csscoordinates.js"></script>
@@ -119,9 +119,9 @@
                 </li>
               </ul>
   </div>
-<!--  
+<!-- START Listas PDF-->
   <div class="btn-group dropdown">
-              <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Descargar<span class="glyphicon glyphicon-download-alt"></span>
+              <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Listas PDF<span class="glyphicon glyphicon-download-alt"></span>
               </button>
               <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
                 <li>
@@ -146,10 +146,11 @@
                   <a href="http://apps.biosxtreme.net/aplicaciones.pdf">Apps</a>
                 </li>
                 <li>
-                  <a href="http://ouo.io/CqGKZ7">PDF Android</a>
+                  <a href="https://ouo.io/pFpTS9">Adobe PDF Android</a>
                 </li>
               </ul>
-  </div> -->
+  </div>
+  <!-- END Listas PDF-->
   </div>
   </nav>
   <div class="headreport">
