@@ -1117,7 +1117,7 @@
          <li>
           <!-- reemplazado enlace por incluye-->
           <!--<td class="fieldlabel" nowrap="1"><xsl:value-of select="/movieinfo/moviemetadata/field[@id='dfLinks']/@label"/></td>-->
-          <span id="subs1">Incluye</span>
+          <span id="subs1">Relacionados</span>
           
             <xsl:apply-templates select="links//*[urltype='URL']"/>
           
