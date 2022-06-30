@@ -115,14 +115,14 @@
 </xsl:template>
 
 <!-- backdrop / poster-->
-<xsl:template name="backdropposter">
+<!--<xsl:template name="backdropposter">
   <xsl:param name="nameimg" select="''"/>
   <xsl:if test="$templatetype='view' or 'print'">
     <xsl:if test="$nameimg!=''">
       <a href="http://image.html"><img src="file:///{$nameimg}" border="0" style="height:150px;"/></a>
     </xsl:if>
   </xsl:if>
-</xsl:template>
+</xsl:template>-->
 
 <!-- episode image -->
 <xsl:template name="imagelinkep">
@@ -243,10 +243,11 @@
   <HEAD>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>    
-    <LINK REL="StyleSheet" TYPE="text/css" HREF="{$mybasepath}{$stylesheet}"></LINK>
+    
     <link rel="icon" type="image/x-icon" href="images/biosfilm.ico" />
     <link rel="stylesheet" href="../css/bootstrap.css"/>
     <link rel="stylesheet" href="..css/bootstrap-theme.css"/>
+    <LINK REL="StyleSheet" TYPE="text/css" HREF="{$mybasepath}{$stylesheet}"></LINK>
     <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
     <meta property="og:title" content="InfoContenido: http://info.biosxtreme.net" />
     <meta property="og:url" content="http://film.biosxtreme.net/" />

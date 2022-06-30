@@ -32,10 +32,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <!--Roboto font-->
     <!--<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic' rel='stylesheet' type='text/css' />-->
-    <LINK REL="StyleSheet" TYPE="text/css" HREF="<STYLESHEET/>" />
+    
     <link rel="icon" type="image/x-icon" href="images/biosfilm.ico" />
     <link rel="stylesheet" href="css/bootstrap.css"/>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css"/>
+    <LINK REL="StyleSheet" TYPE="text/css" HREF="<STYLESHEET/>" />
     <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta property="og:title" content="http://film.biosxtreme.net" />
 		<meta property="og:url" content="http://film.biosxtreme.net/" />
@@ -61,7 +62,7 @@
 <!-- NAV -->    
   <nav class="navbar navbar-default navbar-fixed-top">
 <!-- MENU -->
-  <div style="text-align: center">
+  <div style="text-align: center;">
   <div class="btn-group dropdown">
               <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Menú <span class="glyphicon glyphicon-menu-hamburger"></span>
               </button>

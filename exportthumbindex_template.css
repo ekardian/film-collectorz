@@ -225,3 +225,14 @@ nav {
 #dbox {
   
 }
+/*
+Paginación
+*/
+.pager li > a, .pager li > span {
+	color: #000;
+}
+
+.pagination > li > a, .pagination > li > span {
+	background-color: #151f30;
+	border: 1px solid #000209;
+}

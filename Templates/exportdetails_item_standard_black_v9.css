@@ -3,21 +3,23 @@
 }
 body {
 	font-family:Verdana,Arial,Helvetica,sans-serif;
-	font-size:8pt;
+	font-size:10pt;
 	color:#fff;
-   background-color:#000;
+	background-color:rgb(1, 2, 7);
 	margin:10px;
 }
 a:link, a:visited {
 	text-decoration:none;
 	/*color:#fff;*/
 	/*color: #000;*/
-	color: #3583CC;
+	/*color: #3583CC;*/
+	color: #83FFD0;
 	font-weight: bold;
 } 
 a:hover {
 	text-decoration:none;
-	color:#8FE26E;
+	/*color:#8FE26E;*/
+	color: #fdf2d7;
 }
 .header {
 	font-size:11pt;	
@@ -381,3 +383,11 @@ ul li {
 iframe {
 	margin: 20px;
 }
+/*
+paginación
+*/
+/*.pagination > li > a, .pagination > li > span {
+	background-color: #151f30;
+	border: 1px solid #000209;
+}
+*/
